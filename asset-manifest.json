@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DevOps-project/static/css/main.fbf26ba9.css",
+    "main.js": "/DevOps-project/static/js/main.d4544528.js",
+    "static/media/BackGround.png": "/DevOps-project/static/media/BackGround.28133d5bd1410d99953a.png",
+    "static/media/Iphone.png": "/DevOps-project/static/media/Iphone.59512269abeafe7df363.png",
+    "static/media/Online-Food.png": "/DevOps-project/static/media/Online-Food.a3c00c6a2f11f6e80733.png",
+    "static/media/Dine-Out.png": "/DevOps-project/static/media/Dine-Out.1309eb06207afbea77b2.png",
+    "static/media/Night-Life.png": "/DevOps-project/static/media/Night-Life.88540496c94a542a4965.png",
+    "static/media/collection3.webp": "/DevOps-project/static/media/collection3.529bb365afa28d81bea5.webp",
+    "static/media/Zomato-Logo.png": "/DevOps-project/static/media/Zomato-Logo.c6cdb75490a0495213ac.png",
+    "static/media/collection1.webp": "/DevOps-project/static/media/collection1.58bc82b82edbd3b77183.webp",
+    "static/media/collection2.webp": "/DevOps-project/static/media/collection2.ad8b4af2bca0f0aa7e86.webp",
+    "static/media/collection4.webp": "/DevOps-project/static/media/collection4.feca610a7de25142be3e.webp",
+    "static/media/App-Store.png": "/DevOps-project/static/media/App-Store.97cd96949fa825fd3e29.png",
+    "static/media/Google-Play.png": "/DevOps-project/static/media/Google-Play.d1730acf5c0079ecb2e9.png",
+    "static/media/blackLogo.webp": "/DevOps-project/static/media/blackLogo.6a4e93ef665f732911ad.webp",
+    "index.html": "/DevOps-project/index.html",
+    "main.fbf26ba9.css.map": "/DevOps-project/static/css/main.fbf26ba9.css.map",
+    "main.d4544528.js.map": "/DevOps-project/static/js/main.d4544528.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbf26ba9.css",
+    "static/js/main.d4544528.js"
+  ]
+}
